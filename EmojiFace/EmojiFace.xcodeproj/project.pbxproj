@@ -14,6 +14,7 @@
 		1A72D058231AC8680098E337 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A72D056231AC8680098E337 /* LaunchScreen.storyboard */; };
 		1A72D063231AC8690098E337 /* EmojiFaceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A72D062231AC8690098E337 /* EmojiFaceTests.swift */; };
 		1A72D06E231AC8690098E337 /* EmojiFaceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A72D06D231AC8690098E337 /* EmojiFaceUITests.swift */; };
+		1A72D07C231AD7B00098E337 /* Models.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A72D07B231AD7B00098E337 /* Models.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		1A72D069231AC8690098E337 /* EmojiFaceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EmojiFaceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A72D06D231AC8690098E337 /* EmojiFaceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiFaceUITests.swift; sourceTree = "<group>"; };
 		1A72D06F231AC8690098E337 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A72D07B231AD7B00098E337 /* Models.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = Models.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				1A72D054231AC8680098E337 /* Assets.xcassets */,
 				1A72D056231AC8680098E337 /* LaunchScreen.storyboard */,
 				1A72D059231AC8680098E337 /* Info.plist */,
+				1A72D07B231AD7B00098E337 /* Models.scnassets */,
 			);
 			path = EmojiFace;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A72D058231AC8680098E337 /* LaunchScreen.storyboard in Resources */,
+				1A72D07C231AD7B00098E337 /* Models.scnassets in Resources */,
 				1A72D055231AC8680098E337 /* Assets.xcassets in Resources */,
 				1A72D053231AC8670098E337 /* Main.storyboard in Resources */,
 			);
